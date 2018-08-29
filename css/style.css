@@ -150,7 +150,7 @@ body, html {
 
 
     .container2 {
-       max-width:900px;
+       max-width:1000px;
        margin: 0 auto;
        display: flex;
        justify-content: flex-start;
@@ -179,8 +179,8 @@ body, html {
     }
     .box2 img
     {
-        width:250px;
-        height: 300px;
+        width:200px;
+        height: 250px;
     }
     #one
     {
@@ -274,8 +274,8 @@ body, html {
 }
 footer
 {
-    background: lightgrey;
-    color: #292929;
+    background: black;
+    color: white;
 }
 .fa {
     padding: 20px;
@@ -312,12 +312,3 @@ footer
 
 
 
-@media screen and (min-width: 900px)
-{
-
-    .container
-    {
-        
-        flex-wrap: wrap;
-    }
-}
