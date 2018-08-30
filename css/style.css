@@ -104,6 +104,7 @@ body, html {
        justify-content: flex-start;
        flex-wrap: wrap;
        
+       
     }
     .container3 {
         max-width:1000px;
@@ -133,23 +134,30 @@ body, html {
     #one
     {
         text-align: left;
-        font-style: italic;
         font-weight: 100;
 
     }
+    
      #two
     {
         text-align: left;
-        font-style: italic;
         font-weight: 100;
     }
      #three
     {
        
         text-align: left;
-        font-style: italic;
         font-weight: 100;
 
+    }
+    #one h2 {
+        font-family: 'Dancing Script', cursive;
+    }
+    #two h2 {
+        font-family: 'Dancing Script', cursive;
+    }
+    #three h2 {
+        font-family: 'Dancing Script', cursive;
     }
    
 
@@ -172,23 +180,29 @@ body, html {
     #onee
     {
         text-align: left;
-        font-style: italic;
         font-weight: 100;
 
     }
      #twoo
     {
         text-align: left;
-        font-style: italic;
         font-weight: 100;
     }
      #threee
     {
        
         text-align: left;
-        font-style: italic;
         font-weight: 100;
 
+    }
+    #onee h2 {
+        font-family: 'Dancing Script', cursive;
+    }
+    #twoo h2 {
+        font-family: 'Dancing Script', cursive;
+    }
+    #threee h2 {
+        font-family: 'Dancing Script', cursive;
     }
     
 .hero-image{
